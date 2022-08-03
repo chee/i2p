@@ -7,11 +7,11 @@ setuptools.setup(
 	name="i2p-chee",
 	version="0.0.0",
 	author="chee",
-	author_email="chee@snoot.club",
+	author_email="yay@chee.party",
 	description="save them",
 	long_description=long_description,
 	long_description_content_type="text/org",
-	url="https://git.snoot.club/chee/i2p",
+	url="https://github.com/chee/i2p",
 	packages=setuptools.find_packages(),
 	python_requires=">= 3.6",
 	entry_points={
